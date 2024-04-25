@@ -1,0 +1,31 @@
+.hero{
+    margin-left: 25vw;
+    height: 100vh;
+}
+
+.description{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 90%;
+    width: 75vw;
+}
+
+.hero img{
+    object-fit: cover;
+}
+
+.encrypted{
+    margin-top: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+@media screen and (max-width: 425px) {
+    .mobileHero{
+        display: none;
+    }
+}
