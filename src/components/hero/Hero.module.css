@@ -36,7 +36,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 431px) {
     .mobileHero{
         display: none;
     }

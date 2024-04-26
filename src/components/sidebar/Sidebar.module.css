@@ -70,6 +70,7 @@
     .mobileMenu{
         width: 100vw !important;
         height: 100vh;
+        background-color: aqua;
     }
     .mobileChat{
         display: none;
