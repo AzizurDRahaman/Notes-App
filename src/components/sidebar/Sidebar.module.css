@@ -62,10 +62,11 @@
     }
     .sidebar{
         width: 35vw;
+        height: 100vh;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 431px) {
     .mobileMenu{
         width: 100vw !important;
         height: 100vh;

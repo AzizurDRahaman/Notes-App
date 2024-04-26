@@ -24,6 +24,18 @@
     gap: 0.5rem;
 }
 
+@media screen and (max-width: 768px) {
+    .hero{
+        margin-left: 35vw;
+    }
+    .hero img{
+        width: 65%;
+    }
+    .description{
+        width: 65vw;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .mobileHero{
         display: none;
